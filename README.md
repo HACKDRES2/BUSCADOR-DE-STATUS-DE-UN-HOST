@@ -1,4 +1,4 @@
-# BUSCADOR-DE-HOST
+# BUSCADOR-UN-STATUS-DE-UN-HOST
 Con este script podras encontrar un status de host facil y en menos de 1 segundo
 
 #COMANDOS DEL SCRIPT
