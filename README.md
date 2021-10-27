@@ -7,7 +7,7 @@ pkg install git
 
 pkg install curl
 
-git clone https://github.com/HACKDRES2/BUSCADOR-DE-HOST/edit/main/README.md
+git clone https://github.com/HACKDRES2/BUSCADOR-DE-STATUS-DE-UN-HOST
 
 cd script.sh
 
