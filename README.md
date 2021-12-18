@@ -17,3 +17,6 @@ bash script.sh
 LINIK DE MI CANAL
 
 https://youtube.com/channel/UCTSAjBuSJiqSYXd_dqg4qBg
+
+
+Este script si es mio es 100% mi código pueden hacer lo que quieran con el
